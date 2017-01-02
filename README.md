@@ -4,7 +4,7 @@
 
 # Date: 2017.01.01
 
-Information: It to setup simple frontend client. Example web browser page index. Does not run backend example server hosting. By using the nodejs program with npm package manager to install basic package.json that is list in dev package list.
+Information: It to setup simple frontend client. Example web browser page index. Does not run backend example server hosting. Just hosting a simple test to load correctly. By using the nodejs program with npm package manager to install basic package.json that is list in dev package list.
 
 Install gulp as global command line.
 
